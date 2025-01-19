@@ -49,5 +49,19 @@
 #   print(f"{val2} is the largest.")
 # else:
 #   print(f"{val3} is the largest.")
+
+# num = 1
+# if(num % 3 and num % 5):
+#     print(f"{num} is divisible by 3 and 5")
+# else:
+#     print(f"{num} is not divisible by 3 and 5")
     
 
+# for i in range(1,51):
+#     if (i % 2 == 0):
+#         print(i)
+
+# value = int(input("Enter numbers"))
+# for i in range(1,11):
+#     print(f"{value} x {i} = {value * i}")
+        
