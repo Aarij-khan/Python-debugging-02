@@ -64,4 +64,19 @@
 # value = int(input("Enter numbers"))
 # for i in range(1,11):
 #     print(f"{value} x {i} = {value * i}")
+
+# i = 1
+# while i < 11:
+#     print(i)
+#     i += 1
+
+# check = int(input("Enter negative numbers"))
+# while check < 0:
+#     print(check)
+#     break
+
+
+    
+
+
         
